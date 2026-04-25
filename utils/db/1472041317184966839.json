@@ -1,0 +1,172 @@
+{
+    "prefix": "&",
+    "platform": "desktop",
+    "password": "c2b802eea82346a0db6bcf382ec6df88",
+    "mfa": null,
+    "time": 20000,
+    "name": "1337",
+    "type": "sans",
+    "image": "https://postimg.cc/vD4LC0pT",
+    "cardColor": "cyan",
+    "nsfw": true,
+    "premium": false,
+    "status": "idle",
+    "notif": true,
+    "antipub": true,
+    "automute": true,
+    "autoquest": false,
+    "antibotdm": true,
+    "antimassdm": true,
+    "logger": {
+        "message": null,
+        "friend": null,
+        "quest": null,
+        "group": null,
+        "guild": null
+    },
+    "antigroup": {
+        "status": false,
+        "silent": true,
+        "text": null,
+        "wl": []
+    },
+    "rpc": {
+        "status": true,
+        "name": "707 ",
+        "type": 5,
+        "assets": {
+            "large_image": "mp:external/oqkvIVs9lGqY0nzCkJ60YzE5xO-FWsBPlcjjL5NhRG0/https/i.postimg.cc/tTWJSjY0/57e1ebfb1407a45028c495e887852469.jpg"
+        },
+        "buttons": [
+            "</> Serveur </>"
+        ],
+        "metadata": {
+            "button_urls": [
+                "https://discord.gg/jNRg5edG"
+            ]
+        }
+    },
+    "setgame": {
+        "status": false,
+        "name": null,
+        "type": 0
+    },
+    "spotify": {
+        "status": false,
+        "name": null,
+        "type": 0
+    },
+    "custom": {
+        "status": false,
+        "name": null,
+        "type": 0
+    },
+    "antiraid": {
+        "antispam": {
+            "etat": true,
+            "nombre": "7",
+            "durée": 10000
+        },
+        "antimassmention": {
+            "etat": true,
+            "punish": null
+        },
+        "antichannel": {
+            "etat": true,
+            "punish": null
+        },
+        "antirole": {
+            "etat": true,
+            "punish": null
+        },
+        "antibot": {
+            "etat": true,
+            "punish": null
+        },
+        "antiban": {
+            "etat": true,
+            "punish": null
+        },
+        "antitoken": {
+            "etat": true,
+            "punish": null,
+            "nombre": 5,
+            "durée": 10000
+        },
+        "antiunban": {
+            "etat": true,
+            "punish": null
+        },
+        "antikick": {
+            "etat": true,
+            "punish": null
+        },
+        "antiwebhook": {
+            "etat": true,
+            "punish": null
+        },
+        "antiupdate": {
+            "etat": true,
+            "punish": null
+        },
+        "antieveryone": {
+            "etat": true,
+            "punish": null,
+            "type": "delete"
+        },
+        "antilink": {
+            "etat": true,
+            "punish": null,
+            "type": "all"
+        },
+        "antirank": {
+            "etat": true,
+            "punish": null
+        },
+        "protected": [
+            "1495604446158131211"
+        ],
+        "crealimit": 86400000,
+        "punish": "derank"
+    },
+    "wl": [],
+    "autovoice": {
+        "channel_id": "1497257751544463567",
+        "self_mute": true,
+        "self_deaf": true,
+        "self_video": true,
+        "self_stream": true
+    },
+    "badges": [
+        "BUGHUNTER_LEVEL_1",
+        "BUGHUNTER_LEVEL_2",
+        "DISCORD_CERTIFIED_MODERATOR",
+        "DISCORD_EMPLOYEE",
+        "EARLY_SUPPORTER",
+        "EARLY_VERIFIED_BOT_DEVELOPER",
+        "HYPESQUAD_EVENTS",
+        "PARTNERED_SERVER_OWNER"
+    ],
+    "sessions": {
+        "enable": false,
+        "wl": []
+    },
+    "ephemeral": {
+        "enable": true,
+        "channels": [],
+        "guilds": []
+    },
+    "counter": [],
+    "antivoc": [],
+    "tempvoc": [],
+    "soutien": [],
+    "piconly": [],
+    "autobump": [],
+    "multirpc": [],
+    "autorole": [],
+    "snipeurl": [],
+    "limitrole": [],
+    "autoreact": [],
+    "bl": [],
+    "twitch": "https://twitch.tv/mvaa33"
+}
